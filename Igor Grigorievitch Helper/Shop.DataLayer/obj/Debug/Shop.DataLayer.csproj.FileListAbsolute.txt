@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll.config
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\Shop.DataLayer.dll
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\Shop.DataLayer.pdb
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\obj\Debug\Shop.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\obj\Debug\Shop.DataLayer.dll
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\obj\Debug\Shop.DataLayer.pdb
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\Shop.exe
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop.DataLayer\bin\Debug\Shop.pdb

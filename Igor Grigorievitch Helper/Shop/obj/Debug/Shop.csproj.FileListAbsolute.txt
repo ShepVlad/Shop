@@ -1,0 +1,13 @@
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\Shop.exe.config
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\Shop.exe
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\Shop.pdb
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\obj\Debug\Shop.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\obj\Debug\Shop.exe
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\obj\Debug\Shop.pdb
+C:\Users\student\Desktop\Catalog\GoodsCatalog\Igor Grigorievitch Helper\Shop\obj\Debug\Shop.Form1.resources
